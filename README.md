@@ -5,9 +5,15 @@
 ---
 
 ### 🧩 About Me
-I’m a seasoned **Backend Java Developer** with **14 years of professional experience** in **Investment Banking and Capital Markets**.  
-I specialize in building **scalable, high-performance backend systems** and have a strong understanding of **trade lifecycle management, risk systems, and financial data processing**.  
-My goal is to contribute to reliable and efficient systems that power critical financial operations across global markets.
+ソフトウェア開発、品質保証、運用サポートの分野で約19年の経験を持つITプロフェッショナルです。
+Javaバックエンド開発で6年、QA（手動テストと自動テストの両方）で9年、運用サポートで2年の実務経験を有しています。
+
+設計、開発、テスト、導入、保守を含むソフトウェア開発ライフサイクル全体に精通しています。
+システムの品質と安定性を深く理解し、開発者とQAの両方の視点から貢献できる能力を備えています。
+Javaベースの開発とテスト自動化の実務経験があり、部門横断的なチームとの効果的なコラボレーションを可能にします。
+
+現在、学生ビザで日本で日本語を勉強しており、日本語能力試験N3を取得しています。
+プロフェッショナルなエンジニアリング環境で長期的な貢献者として成長し、強い責任感と質の高い成果を出すためのコミットメントを持ち合わせています。
 
 ---
 
